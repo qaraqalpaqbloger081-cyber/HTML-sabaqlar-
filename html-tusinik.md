@@ -8,4 +8,5 @@ Bul repozitoriy HTML sabaqların qaraqalpaq tilinde berip barıw ushın arnalǵa
  * HTML kóplegen elementlerden turadı. 
  * HTML elementleri brawzerge kantentti qalay kórsetiwdi bildiredi. 
  * HTML elementleri "Bul bir baslama", "Bul bir paragraf", "Bul bir silteme" kibi kantent bólimlerin belgileydi.
+---
  
