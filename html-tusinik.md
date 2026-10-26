@@ -26,9 +26,13 @@ HTML elementi baslawısh teg, kantentler hám juwmaqlawısh teg penen sıpatlana
 HTML elementi baslawısh tegten, juwmaqlawısh tegge shekemgi bolǵan bárlıq zat:
 
 `<h1>` Meniń birinshi baslamam. `</h1>`
+
 `<p>` Meniń birinshi paragrafım. `</p>`
 
 | Baslawısh teg | Elementtiń kantenti | Juwmaqlawısh teg |
 | ------------- | ------------------- | ---------------- |
+| `<h1>`        | Meniń birinshi baslamam. | `</h1>`     |
+| `<p>`         | Meniń birinshi paragrafım. | `</p>`    |
+| `<br>`        | Joq                 | Joq              |
 
 
