@@ -1,10 +1,10 @@
 # HTML degen ne? #
 Bul repozitoriy HTML sabaqların qaraqalpaq tilinde berip barıw ushın arnalǵan.
 ## HTML haqqında Qaraqalpaq tilinde túsinik. ##
- _ HTML bul - Hyper Text Markup Language. 
- _ Qaraqalpaq tilinde Gipertekstli belgilew tili degendi bildiredi.
+ _ HTML bul - Hyper Text Markup Language._ 
+ _ Qaraqalpaq tilinde Gipertekstli belgilew tili degendi bildiredi._
  
- _ HTML web betlerdi  islew ushın qollanılatuǵın standart belgilew tili.
+ _ HTML web betlerdi  islew ushın qollanılatuǵın standart belgilew tili._
  
  _ HTML web betlerdiń dúzilisin sıpatlaydı.
  
