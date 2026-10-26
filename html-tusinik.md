@@ -10,4 +10,4 @@ Bul repozitoriy HTML sabaqların qaraqalpaq tilinde berip barıw ushın arnalǵa
  * HTML elementleri "Bul bir baslama", "Bul bir paragraf", "Bul bir silteme" kibi kantent bólimlerin belgileydi.
 ---
  ## Mısal túsindirildi. ##
-  * <span style="color:red;"><!DOCTYPE html></span>  bul hújjettiń HTML5 hújjeti ekenligin daǵazalaydı.
+  * <span style="color:red;">`<!DOCTYPE html>`</span>  bul hújjettiń HTML5 hújjeti ekenligin daǵazalaydı.
