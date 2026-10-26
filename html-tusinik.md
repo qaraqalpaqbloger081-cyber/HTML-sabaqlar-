@@ -35,4 +35,5 @@ HTML elementi baslawısh tegten, juwmaqlawısh tegge shekemgi bolǵan bárlıq z
 | `<p>`         | Meniń birinshi paragrafım. | `</p>`    |
 | `<br>`        | Joq                 | Joq              |
 
-
+---
+Yadıńızda saqlań: Ayırım HTML elementlerdiń kantenti joq (mısalı <br> elementi). Bul elementlerge bos elementler delinedi.
