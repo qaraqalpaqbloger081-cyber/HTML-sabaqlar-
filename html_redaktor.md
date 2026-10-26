@@ -29,5 +29,5 @@ Notepad tekst redaktorı windowslardıń ózinde bar bolǵan ápiwayı tekst red
 
 #### Mac-lerdegi TextEdit tekst redaktorı. ####
 
-Mac-lerdegi TextEdit tekst redaktorı Mac operacion sistemasında bar bolǵan tekst redaktorı. Biraq VS Code hám Sublime Text kibi Qolaylıqlarǵa iye emes. Mısalı, VS Code hám Sublime Text kibi kodlardı bólek reńlerde kórsetiw, kodtı avtomat juwmaqlaw, terminal hám git qollanılıwınıń joqlıǵı, extension hám pluginlerdiń joqlıǵı.
+Mac-lerdegi TextEdit tekst redaktorı Mac operacion sistemasında bar bolǵan tekst redaktorı. Biraq VS Code hám Sublime Text kibi Qolaylıqlarǵa iye emes. Mısalı, VS Code hám Sublime Text kibi kodlardı bólek reńlerde kórsetiw, kodtı avtomat juwmaqlaw, terminal hám git qollanılıwınıń joqlıǵı, extension hám plugin-lerdiń joqlıǵı.
 
