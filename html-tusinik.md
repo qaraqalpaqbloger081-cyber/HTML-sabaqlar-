@@ -18,3 +18,6 @@ Bul repozitoriy HTML sabaqların qaraqalpaq tilinde berip barıw ushın arnalǵa
   * `<h1>` elementi eń úlken baslamanı sıpatlaydı.
   * `<p>` elementi paragraftı sıpatlaydı.
 ---
+### HTML elementi degen ne? ###
+HTML elementi baslawısh teg, kantentler hám juwmaqlawısh teg penen sıpatlanadı:
+`<teg_atı>`Kantent mına jerge`</tega_atı>`
