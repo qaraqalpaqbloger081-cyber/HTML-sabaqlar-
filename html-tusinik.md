@@ -11,3 +11,10 @@ Bul repozitoriy HTML sabaqların qaraqalpaq tilinde berip barıw ushın arnalǵa
 ---
  ## Mısal túsindirildi. ##
   * `<!DOCTYPE html>` bul hújjettiń HTML5 hújjeti ekenligin daǵazalaydı.
+  * `<html>` elementi bir web bettiń túbir elementi esaplanadı.
+  * `<head>` elementi HTML beti haqqındaǵı meta maǵlıwmatlardı óz ishine qamtıydı.
+  * `<title>` elementi HTML betiniń baslamasın belgileydi (ol brawzerdiń baslama qatarında yamasa bet jarlıǵında kórinedi.).
+  * `<body>` elementi hújjettiń gewde bólimin sıpatlaydı hám baslamalar, paragraflar, súwretler, siltemeler, kesteler, dizimler hám basqalardı óz ishine qamtıydı.
+  * `<h1>` elementi eń úlken baslamanı sıpatlaydı.
+  * `<p>` elementi paragraftı sıpatlaydı.
+---
