@@ -20,4 +20,15 @@ Bul repozitoriy HTML sabaqların qaraqalpaq tilinde berip barıw ushın arnalǵa
 ---
 ### HTML elementi degen ne? ###
 HTML elementi baslawısh teg, kantentler hám juwmaqlawısh teg penen sıpatlanadı:
+
 `<teg_atı>`Kantent mına jerge`</tega_atı>`
+
+HTML elementi baslawısh tegten, juwmaqlawısh tegge shekemgi bolǵan bárlıq zat:
+
+`<h1>` Meniń birinshi baslamam. `</h1>`
+`<p>` Meniń birinshi paragrafım. `</p>`
+
+| Baslawısh teg | Elementtiń kantenti | Juwmaqlawısh teg |
+| ------------- | ------------------- | ---------------- |
+
+
