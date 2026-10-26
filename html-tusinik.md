@@ -36,4 +36,4 @@ HTML elementi baslawısh tegten, juwmaqlawısh tegge shekemgi bolǵan bárlıq z
 | `<br>`        | Joq                 | Joq              |
 
 ---
-Yadıńızda saqlań: Ayırım HTML elementlerdiń kantenti joq (mısalı <br> elementi). Bul elementlerge bos elementler delinedi.
+Yadıńızda saqlań: Ayırım HTML elementleriniń kantenti joq (mısalı <br> elementi). Bul elementlerge bos elementler delinedi.
