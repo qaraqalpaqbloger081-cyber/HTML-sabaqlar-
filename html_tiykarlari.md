@@ -26,3 +26,22 @@ HTML baslamaları `<h1>` menen `<h6>` ǵa shekem bolǵan tegler menen anıqlanad
 
 ---
 
+### HTML  paragrafları. ###
+
+HTML  paragrafları `<p>` tegi menen anıqlanadı. Birneshe paragraf ushın bir neshe `<p>` teginen paydalanıw kerek.
+
+---
+
+### HTML siltemeleri. ###
+
+HTML siltemeleri `<a>` tegi menen anıqlanadı.
+
+Siltemeniń ádresi `href` atributı menen anıqlanadı.
+
+Atributlar HTML elementleri haqqında qosımsha maǵlıwmat beriw ushın qollanıladı.
+
+#### HTML-de súwretler. ####
+
+HTML-de súwretler `<img>` tegi menen anıqlanadı.
+
+`<img>` teginiń `src` derek fayılı, `alt` alternativ tekst, `width` eni hám `height` biyikligi degen atributları bar.
