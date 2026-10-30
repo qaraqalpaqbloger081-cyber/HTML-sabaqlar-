@@ -48,6 +48,34 @@ Yadıńızda saqlań: Bárqulla salıstırmalı URL qollanǵan jaqsı. Domen at�
 
 `<img>` tegi ishinde jazılıwı shárt bolǵan atribut bar. Ol alt atributı. alt atributı súwret qanday da bir sebep penen kórinbey qalsa onıń neniń súwreti ekenligin bildiretuǵın alternativ tekst esaplanadı. Mısalı internet baylanısı tómen bolǵanda, src atributında qátelik bolǵanda yamasa paydalanıwshı ekran oqıw texnologiyasınan paydalansa kerek boladı.
 
+`<img src="adam.jpg" width="500' height="600" alt="Adamnıń súwreti">`
 
+---
+
+##### style atributı. #####
+
+style atributı bir elementke reń, shrift, kólemi hám taǵı basqa stillerdi beriw ushın paydalanıladı.
+
+`<p style="color:green;">`Bul jazıw jası reńde`</p>`
+
+---
+
+###### lang atributı. #####
+
+Web betiniń qaysı tilde ekenligin belgilew ushın `<html>` teginiń ishinde bárqulla lnag atributın jazıwıńız kerek. Bul izlew sistemalarına hám brawzerlerge kómek beredi.
+
+Qaraqalpaq tili: `<html lang="kaa">`
+
+Inglis tili: `<html lang="en">`
+
+Orıs tili: `<html lang="ru">`
+
+---
+
+###### title atributı. ######
+
+Tıshqandı elementtiń ústine ákelgenińizde title atributınıń mánisi bir sıpatlama kórinisinde sáwlelenedi.
+
+`<p title="Bul sıpatlama">`Bul tekst`</p>`
 
 
