@@ -62,7 +62,7 @@ style atributı bir elementke reń, shrift, kólemi hám taǵı basqa stillerdi 
 
 ###### lang atributı. #####
 
-Web betiniń qaysı tilde ekenligin belgilew ushın `<html>` teginiń ishinde bárqulla lnag atributın jazıwıńız kerek. Bul izlew sistemalarına hám brawzerlerge kómek beredi.
+Web betiniń qaysı tilde ekenligin belgilew ushın `<html>` teginiń ishinde bárqulla lang atributın jazıwıńız kerek. Bul izlew sistemalarına hám brawzerlerge kómek beredi.
 
 Qaraqalpaq tili: `<html lang="kaa">`
 
